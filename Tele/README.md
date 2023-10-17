@@ -124,7 +124,4 @@ The Serial monitor is extensively used for debugging. Ensure the baud rate is se
 ![Car Image](car1.png)
 _Image Description: Car_
 
-![Car Image](car2.png)
-_Image Description: Car_
-
 
