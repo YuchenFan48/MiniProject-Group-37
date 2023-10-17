@@ -1,0 +1,6 @@
+http://127.0.0.1:5000/photo/myVedio.mp4_1
+http://127.0.0.1:5000/photo/myVedio.mp4_2
+http://127.0.0.1:5000/photo/myVedio.mp4_3
+http://127.0.0.1:5000/photo/myVedio.mp4_4
+http://127.0.0.1:5000/photo/myVedio.mp4_5
+http://127.0.0.1:5000/photo/myVedio.mp4_6

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" build-on-make="true" name="testWeb:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/testWeb_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="testWeb" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="testWeb/web/Web" />
+      <element id="javaee-facet-resources" facet="testWeb/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
