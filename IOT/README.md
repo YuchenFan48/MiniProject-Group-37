@@ -53,6 +53,10 @@ Then click this button, the program will automatically start to detect this path
 
 Here is the result, the videos which have been identified and labeled.
 
+![Pipeline Diagram](Pipeline_diagram.jpg)
+
+This diagram provides a visual representation of the pipeline flow for the Identification System.
+
 # Video Upload and Database Update Program Design Document
 
 ## 1. Background
